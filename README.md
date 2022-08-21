@@ -1,1 +1,2 @@
-#Algoritmos aplicados as regras de negocio de um hotel parte2#
+                    #Algoritmos aplicados as regras de negocio de um hotel parte2#
+                    
